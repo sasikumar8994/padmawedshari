@@ -1,0 +1,8 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: azeem_wedding_dev
+  pool: 5
+  username: anbu
+  password: password
+  host: localhost
