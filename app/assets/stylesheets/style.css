@@ -261,41 +261,41 @@ h1,h2,h3,h4,h5,h6,a,ul,li{
 	width: 100%;
 	z-index: 999999999999;
 	background-color: #FCF5E4;
-	background-image: url('/images/preloader.gif');
+	background-image: url('preloader.gif');
 	background-repeat: no-repeat;
 	background-position: center center;
 }
 
 /* Body Background List */
 body.the-heart-default-body {
-	background-image: url('/images/the-heart-body-bg.png');
+	background-image: url('the-heart-body-bg.png');
 }
 body.the-heart-journal-body-bg {
-	background-image: url('/images/journal-body-bg.png');
+	background-image: url('journal-body-bg.png');
 }
 body.the-heart-timeline-body {
-	background-image: url('/images/timeline-body-bg.jpg');
+	background-image: url('timeline-body-bg.jpg');
 }
 body.the-heart-rsvp-body {
-	background-image: url('/images/rsvp-body-bg.jpg');
+	background-image: url('rsvp-body-bg.jpg');
 }
 body.the-heart-his-story-body {
-	background-image: url('/images/his-storey-bg.jpg');
+	background-image: url('his-storey-bg.jpg');
 }
 body.the-heart-her-story-body {
-	background-image: url('/images/her-Story-bg.png');
+	background-image: url('her-Story-bg.png');
 }
 body.the-heart-gift-registry-body {
-	background-image: url('/images/gift-registry-body.jpg');
+	background-image: url('gift-registry-body.jpg');
 }
 body.the-heart-engagement-body {
-	background-image: url('/images/engagement-storey-body.png');
+	background-image: url('engagement-storey-body.png');
 }
 body.the-heart-bridemaid-body {
-	background-image: url('/images/bride-maid-body-bg.jpg');
+	background-image: url('bride-maid-body-bg.jpg');
 }
 body.the-heart-groomsman-body {
-	background-image: url('/images/groomsman-body-bg.jpg');
+	background-image: url('groomsman-body-bg.jpg');
 }
 
 /* Graet Vides Fonts */
@@ -547,7 +547,7 @@ header.the-heart-menu-and-logo-section.sticky-menu ul.dropdown li a{
 	left: 0;
 	height: 230px;
 	width: 100%;
-	background-image: url('/images/floral-top.png');
+	background-image: url('floral-top.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -557,7 +557,7 @@ header.the-heart-menu-and-logo-section.sticky-menu ul.dropdown li a{
 	top: inherit;
 	bottom: 0;
 	height: 249px;
-	background-image: url('/images/floral-bottom.png');
+	background-image: url('floral-bottom.png');
 }
 .the-heart-welcome-content {
 	position: relative;
@@ -590,12 +590,12 @@ header.the-heart-menu-and-logo-section.sticky-menu ul.dropdown li a{
 	left: 0;
 	height: 20px;
 	width: 100%;
-	background-image: url('/images/floeal-txt-bg-1.png');
+	background-image: url('floeal-txt-bg-1.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 }
 .the-heart-floral-txt:after {
-	background-image: url('/images/floeal-txt-bg-2.png');
+	background-image: url('floeal-txt-bg-2.png');
 	top: inherit;
 	bottom: -20px;
 }
@@ -1296,7 +1296,7 @@ canvas {
 ========================================================================================================================*/
 
 .the-heart-introduction-wraper {
-	background-image: url('/images/introduction-floral-bg.png');
+	background-image: url('introduction-floral-bg.png');
 	background-size: 100%;
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -1346,8 +1346,8 @@ canvas {
 
 
 .the-heart-memoragble-days-img img {
-	-webkit-mask-image: url('/images/mask-img.png');
-	mask-image: url('/images/mask-img.png');
+	-webkit-mask-image: url('mask-img.png');
+	mask-image: url('mask-img.png');
 	-webkit-mask-repeat: no-repeat;
 	mask-repeat: no-repeat;
 	-webkit-mask-size: 60%;
@@ -1395,7 +1395,7 @@ canvas {
 	left: 50%;
 	height: 100%;
 	width: 61px;
-	background-image: url('/images/memorable-days-spearetor.png');
+	background-image: url('memorable-days-spearetor.png');
 	background-size: 50%;
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -1442,7 +1442,7 @@ canvas {
 	left: 0;
 	height: 115px;
 	width: 100%;
-	background-image: url('/images/paper-effect--top.png');
+	background-image: url('paper-effect--top.png');
 	background-repeat: repeat-x;
 	background-position: top center;
 	background-size: contain;
@@ -1451,11 +1451,11 @@ canvas {
 .the-heart-paper-effect-bg:after {
 	top: inherit;
 	bottom: 0;
-	background-image: url('/images/paper-effect--bottom.png');
+	background-image: url('paper-effect--bottom.png');
 	background-position: bottom center;
 }
 .the-heart-wdding-venu-content {
-  background-image: url('/images/wedding-palace-inner-bg.jpg');
+  background-image: url('wedding-palace-inner-bg.jpg');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: 100% 100%;
@@ -1483,7 +1483,7 @@ canvas {
 	left: 0;
 	width: 100%;
 	height: 21px;
-	background-image: url('/images/weddin-venue-floral.png');
+	background-image: url('weddin-venue-floral.png');
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: 50%;
@@ -1542,7 +1542,7 @@ canvas {
   z-index: 0;
 }
 .the-heart-attending-content::before {
-  background-image: url('/images/1.png');
+  background-image: url('1.png');
   background-repeat: no-repeat;
   content: "";
   height: 118px;
@@ -1552,7 +1552,7 @@ canvas {
   width: 293px;
 }
 .the-heart-attending-content::after {
-  background-image: url('/images/2.png');
+  background-image: url('2.png');
   background-repeat: no-repeat;
   bottom: 0;
   content: "";
@@ -1612,7 +1612,7 @@ canvas {
 	width: calc(100% - 136px);
 	margin: 0 auto;
 	padding: 50px 80px;
-	background-image: url('/images/attending-form-bg.png');
+	background-image: url('attending-form-bg.png');
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 	background-position: center center;
@@ -1640,7 +1640,7 @@ canvas {
 .the-heart-attending-form select {
 	  -moz-appearance: none;
 	  -webkit-appearance: none;
-	  background: rgba(0, 0, 0, 0) url('/images/shape.png') no-repeat scroll 100% center;
+	  background: rgba(0, 0, 0, 0) url('shape.png') no-repeat scroll 100% center;
 	  border: 1px solid #ffffff;
 	  color: #fff;
 	  display: block;
@@ -1727,16 +1727,16 @@ canvas {
 	padding: 100px 0;
 }
 #the-heart-gallery .the-heart-paper-effect-bg:before {
-	background-image: url('/images/paper-effect--top-gallery.png');
+	background-image: url('paper-effect--top-gallery.png');
 }
 
 #the-heart-gallery .the-heart-paper-effect-bg:after {
-	background-image: url('/images/paper-effect--bottom-gallery.png');
+	background-image: url('paper-effect--bottom-gallery.png');
 }
 
 .the-heart-single-gallery img{
-	-webkit-mask-image: url('/images/gallery-mask.png');
-	mask-image: url('/images/gallery-mask.png');
+	-webkit-mask-image: url('gallery-mask.png');
+	mask-image: url('gallery-mask.png');
 	-webkit-mask-repeat: no-repeat;
 	mask-repeat: no-repeat;
 	-webkit-mask-size: 100% 100%;
@@ -1815,8 +1815,8 @@ canvas {
 	margin-top: 20px;
 }
 .the-heart-single-journal figure img {
-	mask-image: url('/images/journal-img-mask.png');
-	-webkit-mask-image: url('/images/journal-img-mask.png');
+	mask-image: url('journal-img-mask.png');
+	-webkit-mask-image: url('journal-img-mask.png');
 	mask-repeat: no-repeat;
 	-webkit-mask-repeat: no-repeat;
 	mask-position: center center;
@@ -1864,7 +1864,7 @@ canvas {
 	left: 0;
 	width: 100%;
 	height: 13px;
-	background-image: url('/images/journal-heading-bg.png');
+	background-image: url('journal-heading-bg.png');
 	background-repeat: no-repeat;
 	background-size: 50% 100%;
 	background-position: left center;
@@ -2107,7 +2107,7 @@ uncomment this part if you haven't added this code anywhere else
 	transform: translateX(-50%);
 	height: 37px;
 	width: 398px;
-	background-image: url('/images/time-line-post-separetor.png');
+	background-image: url('time-line-post-separetor.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: contain;
@@ -2167,8 +2167,8 @@ uncomment this part if you haven't added this code anywhere else
 	text-align: left;
 }
 .the-heart-single-groomsman figure img {
-	-webkit-mask-image: url('/images/groomsman-mask.png');
-		mask-image: url('/images/groomsman-mask.png');
+	-webkit-mask-image: url('groomsman-mask.png');
+		mask-image: url('groomsman-mask.png');
 	-webkit-mask-repeat: no-repeat;
 		mask-repeat: no-repeat;
 	-webkit-mask-size: 100% 100%;
@@ -2266,7 +2266,7 @@ uncomment this part if you haven't added this code anywhere else
 	left: 0;
 	height: 100%;
 	width: 100%;
-	background-image: url('/images/gift-shop-logo-bg.png');
+	background-image: url('gift-shop-logo-bg.png');
 	background-size: 100% 100%;
 	z-index: -1;
 }
@@ -2353,13 +2353,13 @@ uncomment this part if you haven't added this code anywhere else
 	left: 0;
 	width: 100%;
 	height: 49px;
-	background-image: url('/images/accommodation-post-bg-top.jpg');
+	background-image: url('accommodation-post-bg-top.jpg');
 	background-repeat: repeat-x;
 	background-size: contain;
 	background-position: top center;
 }
 .the-heart-accommodation-post-bg:after {
-	background-image: url('/images/accommodation-post-bg-bottom.jpg');
+	background-image: url('accommodation-post-bg-bottom.jpg');
 	top: inherit;
 	bottom: 0;
 	left: 0;
@@ -2414,7 +2414,7 @@ uncomment this part if you haven't added this code anywhere else
 
 .the-heart-attending-form-2 {
 	text-align: center;
-	background-image: url('/images/attending-form-bg-inner.png');
+	background-image: url('attending-form-bg-inner.png');
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
@@ -2439,7 +2439,7 @@ uncomment this part if you haven't added this code anywhere else
 .the-heart-attending-form-2 select {
 	-webkit-appearance: none;
 	-moz-appearance: none;
-	  background: rgba(0, 0, 0, 0) url('/images/shape.png') no-repeat scroll 100% center;
+	  background: rgba(0, 0, 0, 0) url('shape.png') no-repeat scroll 100% center;
 	  border: 1px solid #96327D;
 	  color: #96327D;
 	  display: block;
@@ -2558,7 +2558,7 @@ uncomment this part if you haven't added this code anywhere else
 }
 .the-heart-single-married-time p {
 	margin: 0;
-	background-image: url('/images/married-time-bg.png');
+	background-image: url('married-time-bg.png');
 	width: 200px;
 	height: 51px;
 	background-position: center center;
@@ -2577,7 +2577,7 @@ uncomment this part if you haven't added this code anywhere else
 	background-size: 100%;
 	background-repeat: no-repeat;
 	background-position: top center;
-	background-image: url('/images/single-blog-post-paper-bg.jpg');
+	background-image: url('single-blog-post-paper-bg.jpg');
 	height: 545px;
 	width: 100vw;
 	margin-left: -50vw;
@@ -2596,7 +2596,7 @@ uncomment this part if you haven't added this code anywhere else
 	left: 0;
 	width: 100%;
 	height: 45px;
-	background-image: url('/images/journal-post-paper-top.png');
+	background-image: url('journal-post-paper-top.png');
 	background-repeat: repeat-x;
 	background-size: contain;
 	background-position: top center;
@@ -2604,7 +2604,7 @@ uncomment this part if you haven't added this code anywhere else
 .the-heart-blog-post-image:after {
 	top: inherit;
 	bottom: 0;
-	background-image: url('/images/journal-post-paper-bottom.png');
+	background-image: url('journal-post-paper-bottom.png');
 	background-position: bottom center;
 	height: 42px;
 }
@@ -2640,7 +2640,7 @@ uncomment this part if you haven't added this code anywhere else
 	content: "";
 	bottom: 0;
 	left: 0;
-	background-image: url('/images/jurnal-post-separetor.png');
+	background-image: url('jurnal-post-separetor.png');
 	width: 100%;
 	height: 38px;
 	background-repeat: no-repeat;
@@ -2718,7 +2718,7 @@ uncomment this part if you haven't added this code anywhere else
 	content: "";
 	bottom: 0;
 	left: 0;
-	background-image: url('/images/jurnal-post-separetor.png');
+	background-image: url('jurnal-post-separetor.png');
 	width: 100%;
 	height: 38px;
 	background-repeat: no-repeat;
